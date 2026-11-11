@@ -9,3 +9,4 @@ linker = "tools/zig-cc-aarch64-musl.cmd"
 
 [target.aarch64-linux-android]
 linker = "C:/Users/aphro/AppData/Local/Android/Sdk/ndk/30.0.16248370/toolchains/llvm/prebuilt/windows-x86_64/bin/aarch64-linux-android35-clang.cmd"
+
